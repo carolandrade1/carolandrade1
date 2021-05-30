@@ -19,7 +19,7 @@ LinkedIn: www.linkedin.com/in/carolandrades11<br>
 Site: em breve<br>
 
 
-### <b>:brain: &nbsp;Sempre buscando conhecimento</b></summary>
+### <b>:brain: &nbsp;Sempre buscando conhecimento/Aprendendo</b></summary>
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
