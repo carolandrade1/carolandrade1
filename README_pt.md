@@ -8,7 +8,7 @@
 ### ✍️ Sobre Mim
 
 📚 Me formei em Engenharia Civil em 2019, e atualmente estou estudando para me tornar uma desenvolvedora. <br>
-💬 Qualque ajuda ou dica é sempre bem-vinda! 
+💬 Qualquer ajuda ou dica é sempre bem-vinda! 
 
 <hr>
 
