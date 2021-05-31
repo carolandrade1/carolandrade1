@@ -8,9 +8,8 @@
 ### ✍️ About me
 
 📚 I graduated in Civil Engineering in 2019, and am currently studying to become a developer. <br>
-💬 Any help or tip is always welcome! 
+💬 Any help or tip is always welcome! <br>
 
-<hr>
 
 ### 📬 Contact
 
@@ -19,8 +18,8 @@ LinkedIn: www.linkedin.com/in/carolandrades11<br>
 Site: coming soon<br>
 
 
-### <b>:brain: &nbsp;Learning</b></summary>
-  <br/>
+### <b>:brain: &nbsp;Learning</b></summary><br/>
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -31,6 +30,7 @@ Site: coming soon<br>
 ![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=black&logo=react&logoColor=61DBFB)
-
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolas1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
