@@ -1,8 +1,8 @@
 # Hi, 👋 how are you?
 
 <table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_pt.md">Português</a></td></tr>
+ <tr><td><a href="README_en.md">English</a></td></tr>
+ <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 
 ### ✍️ About me
