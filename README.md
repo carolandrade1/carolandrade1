@@ -14,7 +14,7 @@
 ### 📬 Contact
 
 GitHub: https://github.com/carolas1<br>
-LinkedIn: www.linkedin.com/in/carolandrades11<br>
+LinkedIn: www.linkedin.com/in/carolandrade1<br>
 Site: coming soon<br>
 
 
