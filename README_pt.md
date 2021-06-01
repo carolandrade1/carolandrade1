@@ -32,4 +32,7 @@ Site: em breve<br>
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=black&logo=react&logoColor=61DBFB)
 <br>
 <br>
+
+![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolas1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
