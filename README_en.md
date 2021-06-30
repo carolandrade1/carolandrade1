@@ -7,8 +7,8 @@
 
 ### ✍️ About me
 
-📚 I graduated in Civil Engineering in 2019, and am currently studying to become a developer. <br>
-💬 Any help or tip is always welcome! <br>
+📚 I graduated in Civil Engineering in 2019, and I am currently studying to become a developer. <br>
+💬 Any help or tips is always welcome! <br>
 
 
 ### 📬 Contact
