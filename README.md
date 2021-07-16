@@ -14,7 +14,7 @@
 ### 📬 Contato
 
 GitHub: https://github.com/carolandrade1<br>
-LinkedIn: www.linkedin.com/in/carolandrade1<br>
+LinkedIn: https://www.linkedin.com/in/carolandrade1/<br>
 Codepen: https://codepen.io/carolandrade1<br>
 Site: em breve<br>
 
