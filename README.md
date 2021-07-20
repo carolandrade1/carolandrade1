@@ -9,7 +9,7 @@
 
 📚 Me formei em Engenharia Civil em 2019, e atualmente estou estudando para me tornar uma desenvolvedora. <br>
 💬 Qualquer ajuda ou dica é sempre bem-vinda! <br>
-👩‍💻 Alura do Bootcamp Front-End Avançado Alura <br>
+👩‍💻 Aluna do Bootcamp Front-End Avançado Alura <br>
 
 
 ### 📬 Contato
