@@ -7,9 +7,9 @@
 
 ### ✍️ Sobre Mim
 
-📚 Me formei em Engenharia Civil em 2019, e atualmente estou estudando para me tornar uma desenvolvedora. <br>
+📚 Me formei em Engenharia Civil em 2019, e estou estudando para me tornar uma desenvolvedora.<br>
+👩‍💻 Aluna do Bootcamp Front-End Avançado Alura - 2021 <br>
 💬 Qualquer ajuda ou dica é sempre bem-vinda! <br>
-👩‍💻 Aluna do Bootcamp Front-End Avançado Alura <br>
 
 
 ### 📬 Contato
@@ -17,15 +17,27 @@
 GitHub: https://github.com/carolandrade1<br>
 LinkedIn: https://www.linkedin.com/in/carolandrade1/<br>
 Codepen: https://codepen.io/carolandrade1<br>
-Site: https://carolandrade.dev/ - Em construção<br>
+Portfolio: https://carolandrade.dev/<br>
 
 
 ### <b>:brain: &nbsp;Aprendendo</b></summary><br/>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JAVASCRIPT" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="FIGMA" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/>
+</p>
 <br>
 
 ### <b>:brain: &nbsp;Focada em</b></summary><br/>
-<p align="left"> <a href="https://nextjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5wvMGFmLNkmfu575yt-tusP4w_zIU8E0qj2PKl-BNUPqvv16qJyQEG17A-ht5DfvND7M&usqp=CAU" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" title="NEXTJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" title="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="drupal" title="DRUPAL" width="40" height="40"/>
+</p>
 <br>
 
 ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
