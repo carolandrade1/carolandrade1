@@ -5,30 +5,29 @@
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
-### 💬 About me
+## 💬 About me
 
 I graduated in Civil Engineeering in 2020, and after losing my job and going through a period of frustration in my field of study, I decide to venture(venture out) into the field of technology. I even took some courses on Data Science but fell in love with Front End development.
 
 So in 2021, I dedicated myself entirely to it, and after many courses and a bootcamp, today I work at JustDigital as a Junior Front End Developer 👩‍💻. 
 
-### 📬 Contact
+## 📬 Contact
 
 <a href="https://carolandrade.dev/" title="Portfolio">
- 
-![Group 66logo](https://user-images.githubusercontent.com/65976843/150660362-fce864b0-fc9b-4b88-8157-0b5d2a8e0340.png)
+
+![Group 66logo (1)](https://user-images.githubusercontent.com/65976843/150660538-c7800b7a-dae8-423a-927a-b4f225029f72.png)
 </a>
 <a href="https://www.linkedin.com/in/carolandrade1/" title="LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45px" /> 
 </a>
 <a href="https://www.linkedin.com/in/carolandrade1/" title="Github">
-<img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1642899342~hmac=ce30fc3ea023fb0fc1652b1817409e34" height="60px" /> 
+<img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1642899342~hmac=ce30fc3ea023fb0fc1652b1817409e34" height="45px" /> 
 </a>
 <a href="https://www.linkedin.com/in/carolandrade1/" title="Codepen">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111341.png" height="60px" />
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111341.png" height="45px" />
 </a>
 
-
-### <b>:brain: &nbsp;Aprendendo</b></summary><br/>
+## <b>:brain: &nbsp;Learning:</b></summary><br/>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/>
@@ -39,9 +38,8 @@ So in 2021, I dedicated myself entirely to it, and after many courses and a boot
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="FIGMA" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/>
 </p>
-<br>
 
-### <b>:brain: &nbsp;Focus in:</b></summary><br/>
+## <b>:brain: &nbsp;Focus in:</b></summary><br/>
 👉 NEXTJS + REACT
 Because of the scholarship I won to participate in the Alura Bootcamp, I first learned Nextjs and only when I finished I started to study React as well, without all the facilities that Next provides. But with all the updates that Next has been bringing, I've been focusing my studies on it in my personal time.
 
