@@ -20,9 +20,6 @@ Então em 2021 me dediquei inteiramente a isso, e depois de muitos cursos e um b
 <a href="https://www.linkedin.com/in/carolandrade1/" title="LinkedIn">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60px" /> 
 </a>
-<a href="https://www.linkedin.com/in/carolandrade1/" title="Github">
-<img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1642899342~hmac=ce30fc3ea023fb0fc1652b1817409e34" height="60px" /> 
-</a>
 <a href="https://www.linkedin.com/in/carolandrade1/" title="Codepen">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111341.png" height="60px" />
 </a>
