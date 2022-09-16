@@ -9,7 +9,7 @@
 
 I graduated in Civil Engineering in 2020, and after losing my job and going through a period of frustration in my field of study, I decide to venture into the field of technology. I even took some courses on Data Science but fell in love with Front End development.
 
-So in 2021, I dedicated myself entirely to it, and after many courses and a bootcamp, today I work at JustDigital as a Junior Front End Developer 👩‍💻. 
+So in 2021, I dedicated myself entirely to it, and after many courses and a bootcamp, today I work as a Front End Developer 👩‍💻. 
 
 ## 📬 Contact
 
