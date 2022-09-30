@@ -38,17 +38,6 @@ Então em 2021 me dediquei inteiramente a isso, e depois de muitos cursos e um b
 </p>
 <br>
 
-### <b>:brain: &nbsp;Focada em:</b></summary><br/>
-
-👉 NEXT.JS + REACT
-Por causa da bolsa que ganhei para participar do Alura Bootcamp, aprendi primeiro Next.js e só quando terminei comecei a estudar React também, sem todas as facilidades que o Next oferece. Mas com todas as atualizações que o Next.js vem trazendo, tenho focado meus estudos nele no meu tempo pessoal.
-
-👉 DRUPAL + SITE STUDIO ACQUIA
-Confesso que não sabia da existência do Drupal (CMS) até começar a trabalhar com ele. Para aqueles como eu que não conheciam, Drupal é um sistema de publicação na web usado para gerenciar o conteúdo de um site. Além disso, Acquia é uma empresa de software que fornece produtos, serviços e suporte técnico para a plataforma Drupal. Um desses produtos é o Site Studio, que fornece um construtor de páginas visual. E é isso que tenho utilizado no meu trabalho por enquanto.
-<br>
-
-![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
-
  <div>
   <a href="https://github.com/carolandrade1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolandrade1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
