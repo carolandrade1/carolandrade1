@@ -36,12 +36,6 @@ So in 2021, I dedicated myself entirely to it, and after many courses and a boot
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/>
 </p>
 
-## <b>:brain: &nbsp;Focus in:</b></summary><br/>
-👉 NEXTJS + REACT <br>
-Because of the scholarship I won to participate in the Alura Bootcamp, I first learned Nextjs and only when I finished I started to study React as well, without all the facilities that Next provides. But with all the updates that Next has been bringing, I've been focusing my studies on it in my personal time.
-
-👉 DRUPAL + ACQUIA SITE STUDIO <br>
-I confess that I didn't know about the existence of Drupal (CMS) until I started working with it. For those like me who didn't know about it, Drupal is a web publishing system. A program or web application used to manage the content of a website. In addition, Acquia is a software-as-a-service company to provide products, services and technical support for the Drupal platform. One of these products is Site Studio, which provides a visual page builder. And that's what I have been doing for now.
 <br>
 
 ![Snake animation](https://github.com/carolandrade1/carolandrade1/blob/output/github-contribution-grid-snake.svg)
