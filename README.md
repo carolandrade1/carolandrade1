@@ -7,7 +7,7 @@
 
 ### 💬 About me
 
-I'm a Front End Developer who holds a bachelor degree in Civil Engineering.
+Hey there! 👋 I'm Carol, a Developer (and, believe it or not, a Civil Engineer) hailing from the vibrant land of Brazil 🇧🇷. Now, you'll find me embracing the cold in Canada 🇨🇦, where I'm a Junior Developer at MRG Group. Yep, I'm the Brazilian who swapped summer for snowflakes ❄️😆
 
 
 ### 📬 Contact
