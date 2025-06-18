@@ -12,7 +12,7 @@ Hey there! 👋 I'm Carol, a Developer (and, believe it or not, a Civil Engineer
 
 ### 📬 Contact
 
-- Website: <a href="https://carolandrade.dev/" title="Portfolio">carolandrade.dev</a>
+- Website: <a href="https://carolandrade-dev.vercel.app/" title="Portfolio">carolandrade.dev</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/carolandrade1/" title="LinkedIn">linkedin.com/in/carolandrade1/</a>
 - Codepen: <a href="https://codepen.io/carolandrade1" title="Codepen">codepen.io/carolandrade1</a>
 
