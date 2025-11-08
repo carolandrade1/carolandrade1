@@ -7,7 +7,7 @@
 
 ### 💬 Sobre mim
 
-Oi pessoal! 👋 Meu nome é Carol, sou desenvolvedora (e acredite se quiser, também sou engenheira civil) vinda da vibrante terra do Brasil 🇧🇷. Agora, vocês me encontram enfrentando o frio no Canadá 🇨🇦, onde trabalho como Desenvolvedora Júnior na MRG Group. Sim, sou aquela brasileira que trocou o verão por flocos de neve ❄️😆
+Oi pessoal! 👋 Meu nome é Carol, sou desenvolvedora (e acredite se quiser, também sou engenheira civil) vinda da vibrante terra do Brasil 🇧🇷. Agora, vocês me encontram enfrentando o frio no Canadá 🇨🇦, onde trabalho como Desenvolvedora na MRG Group. Sim, sou aquela brasileira que trocou o verão por flocos de neve ❄️😆
 
 
 ### 📬 Contato
